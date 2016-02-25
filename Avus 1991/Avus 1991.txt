@@ -1,0 +1,18 @@
+This is the colorized version of Avus 1959. Otherwise it's the same as the 1959 version.
+
+Automobil-Verkehrs- und Übungsstraße, Berlin
+
+The Berlin Avus was once the fastest race track in international motorsport. Two endless straights, a hair raisingly dangerous banking (Nordkurve) and hairpin on the other end (Südschleife). Driven at maximum speed nearly 3/4 of the time this makes for a unique setup that demands minimal air resistance and stresses your engine to the absolute maximum.
+
+The track was becoming too fast and dangerous but the 1959 Grand Prix of Germany was held in Berlin, mostly for political reasons. The Formula 1 race was won by Tony Brooks but tragedy struck in the sports car race. Previous year champion Jean Behra left the banking, collided with a former Flak position and died. Following this no races were held for three years. And from then on only races with smaller cars. DTM pulled out 1995 after even more accidents on mitigated layouts. Eventually the track history officially ended 2000 when the Lausitzring opened. Today you can drive the straights yourselves as they have become part of the public Autobahn (with 100km/h limit). But Nordkurve and Südschleife have been completely dismantled in the 1960s, and historically not much exists of the track.
+
+I did Avus for 2 reasons. First I am a Berliner and second I thought that a real high speed track was missing from the game anyway. It's not a perfect recreation of the track, but it should be close enough. 
+
+This is now completely redone and updated version 2.0, which uses a correct satellite image instead of the faulty wikipedia version.
+Even though Avus is shown completely straight on most plans, from Funkturm you would see that there is a slight left curve directly after the bridge Hüttenweg, and goes around around Triebwagenhalle Hundekehle (S-Bahn). I adjusted that and many other things with an aerial image from ca 1953.
+
+
+
+In the same spirit as strop's Pikes Peak track I have made adjustments that should give high powered turbos a good chance. Kudos to strop for the heads up. I played with the numbers several times and made adjustments to the balance. Turbos can get better lap times than N/A engines, but this does not mean that the car with the most horsepower will win. To win you should make use of the two super long straights. In order to so so you must reach in excess of 500 km/h and build a car with minimal aerodynamic drag. Aero is tricky on this track considering that 2/3 of the track time is spent full throttle. 
+
+http://en.wikipedia.org/wiki/AVUS
